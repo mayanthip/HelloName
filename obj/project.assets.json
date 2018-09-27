@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mperera\\source\\repos\\Hello_Name\\Hello_Name.csproj",
+      "projectUniqueName": "c:\\Users\\mperera\\source\\repos\\HelloName\\Hello_Name.csproj",
       "projectName": "Hello_Name",
-      "projectPath": "C:\\Users\\mperera\\source\\repos\\Hello_Name\\Hello_Name.csproj",
+      "projectPath": "c:\\Users\\mperera\\source\\repos\\HelloName\\Hello_Name.csproj",
       "packagesPath": "C:\\Users\\mperera\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mperera\\source\\repos\\Hello_Name\\obj\\",
+      "outputPath": "c:\\Users\\mperera\\source\\repos\\HelloName\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
